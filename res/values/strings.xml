@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enterbranch">Select your branch</string>
+    <string name="app_name">6th Sem Timetable</string>
+    <string name="entersection">Enter your section</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="darkgray">#44aaaaaa</color>
+	<color name="lightgray">#22bbbbbb</color>
+	<color name="gap">#55cccccc</color>
+</resources>
